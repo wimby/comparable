@@ -1,0 +1,11 @@
+{
+    "name": "wimby/comparable",
+    "description": "Interfaces for comparison between objects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wimby\\": "src/"
+        }
+    }
+}
